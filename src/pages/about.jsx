@@ -106,13 +106,19 @@ export default function About() {
                 joy, celebrating the unique expressions of creativity and
                 identity.{' '}
                 <em>
-                  <a href="https://open.spotify.com/playlist/37i9dQZF1DX4OzrY981I1W?si=1625a97630eb42fc">
+                  <a
+                    className="text-teal-500 dark:text-teal-400"
+                    href="https://open.spotify.com/playlist/37i9dQZF1DX4OzrY981I1W?si=1625a97630eb42fc"
+                  >
                     Indie music
                   </a>
                 </em>{' '}
                 and{' '}
                 <em>
-                  <a href="https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO?si=a3b50a8697484101">
+                  <a
+                    className="text-teal-500 dark:text-teal-400"
+                    href="https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO?si=a3b50a8697484101"
+                  >
                     lo-fi beats
                   </a>
                 </em>{' '}

@@ -8,17 +8,18 @@ import logoGiftAtlas from '@/images/logos/giftatlas.svg'
 import logoAirbnb from '@/images/logos/airbnb.svg'
 import logoInstock from '@/images/logos/instock.png'
 import logoBench from '@/images/logos/bench.png'
+import logoPortfolio from '@/images/logos/portfolio.jpg'
 
 const projects = [
   {
     name: 'Portfolio',
     description:
-      'This webpage! Built with Next.js, Tailwind CSS, and deployed on Vercel.',
+      'This website! Built with Next.js, Tailwind CSS/UI, and deployed on Vercel.',
     link: {
       href: 'https://github.com/ash-river-jones/airbnb-nextjs',
       label: 'github.com',
     },
-    logo: logoAirbnb,
+    logo: logoPortfolio,
   },
   {
     name: 'AirBnb Clone',
