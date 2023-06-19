@@ -61,16 +61,17 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Ash Jones. I live in Vancouver BC, where I build the future.
+              I&apos;m Ash Jones. I live in Vancouver BC, where I build the
+              future.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Hi there! I'm Ash Jones, a passionate software developer and
-                aspiring engineer. I find joy in crafting digital solutions that
-                positively impact people's lives. With a background in freelance
-                projects and valuable experience as a Software Developer Intern
-                at BrainStation, I have the skills and knowledge to tackle
-                complex challenges.
+                Hi there! I&apos;m Ash Jones, a passionate software developer
+                and aspiring engineer. I find joy in crafting digital solutions
+                that positively impact people&apos;s lives. With a background in
+                freelance projects and valuable experience as a Software
+                Developer Intern at BrainStation, I have the skills and
+                knowledge to tackle complex challenges.
               </p>
               <p>
                 As a developer, I have honed my expertise in various
@@ -82,7 +83,7 @@ export default function About() {
                 and scalable applications.
               </p>
               <p>
-                One of the projects I'm particularly proud of is creating a
+                One of the projects I&apos;m particularly proud of is creating a
                 website for a therapist specializing in supporting the queer
                 community in rural Saskatchewan. It was a rewarding experience
                 to leverage my technical skills to create a platform that
@@ -98,12 +99,12 @@ export default function About() {
                 skill set, I aim to make a lasting impact through my work.
               </p>
               <p>
-                When I'm not coding, I often explore my diverse interests and
-                hobbies. I find solace in cooking, experimenting with flavours
-                and creating culinary delights. I also love spending time in
-                nature, going on hikes that allow me to connect with the world
-                around me. Additionally, I find inspiration in queer art and
-                joy, celebrating the unique expressions of creativity and
+                When I&apos;m not coding, I often explore my diverse interests
+                and hobbies. I find solace in cooking, experimenting with
+                flavours and creating culinary delights. I also love spending
+                time in nature, going on hikes that allow me to connect with the
+                world around me. Additionally, I find inspiration in queer art
+                and joy, celebrating the unique expressions of creativity and
                 identity.{' '}
                 <em>
                   <a
@@ -126,7 +127,7 @@ export default function About() {
                 imagination and driving my productivity.
               </p>
               <p>
-                Thank you for joining me on this journey. Let's connect and
+                Thank you for joining me on this journey. Let&apos;s connect and
                 create something remarkable together.
               </p>
             </div>

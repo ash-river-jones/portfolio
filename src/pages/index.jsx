@@ -313,11 +313,11 @@ export default function Home({ articles }) {
             Software developer, Freelancer, AI Enthusiast, and Amateur Chef
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I'm Ash Jones, a passionate web and software developer with a knack
-            for turning ideas into reality. Based in Vancouver, I strive to
-            create innovative solutions and contribute to cutting-edge projects.
-            Explore my portfolio to witness my expertise in web development,
-            software engineering, and more.
+            I&apos;m Ash Jones, a passionate web and software developer with a
+            knack for turning ideas into reality. Based in Vancouver, I strive
+            to create innovative solutions and contribute to cutting-edge
+            projects. Explore my portfolio to witness my expertise in web
+            development, software engineering, and more.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
