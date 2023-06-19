@@ -44,7 +44,7 @@ const projects = [
   {
     name: 'Industry Project - Bench Accounting',
     description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
+      'A cross disciplen project at BrainStation, working alongside UX Designers and Data Sciencetist to improve the onboarding process for Bench Accounting.',
     link: {
       href: 'https://github.com/ash-river-jones/industryprojectclient',
       label: 'github.com',
@@ -54,7 +54,7 @@ const projects = [
   {
     name: 'InStock',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
+      'A Full Stack inventory management system built with React, Express, and MySQL.',
     link: {
       href: 'https://github.com/ash-river-jones/inthebox-frontend',
       label: 'github.com',
